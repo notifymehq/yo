@@ -26,7 +26,7 @@ class YoGateway implements GatewayInterface
      *
      * @var string
      */
-    protected $endpoint = 'http://api.justyo.co';
+    protected $endpoint = 'https://api.justyo.co';
 
     /**
      * Create a new yo gateway instance.
